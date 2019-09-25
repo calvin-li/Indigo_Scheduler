@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indigo_Scheduler", "Indigo_Scheduler\Indigo_Scheduler.csproj", "{A7797880-279C-4EA7-B044-3D4DDFF460F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7797880-279C-4EA7-B044-3D4DDFF460F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7797880-279C-4EA7-B044-3D4DDFF460F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7797880-279C-4EA7-B044-3D4DDFF460F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7797880-279C-4EA7-B044-3D4DDFF460F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
